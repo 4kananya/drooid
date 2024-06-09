@@ -1,0 +1,6 @@
+pandas
+tqdm
+sentence-transformers
+torch
+numpy
+transformers
